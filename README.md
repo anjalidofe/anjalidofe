@@ -1,5 +1,5 @@
 ### Hi!!!:raised_hands:
-## 🌱 I’m currently a third year B.Tech(computer) student at College of Engineering, Pune (COEP).
+## 🌱 I’m currently a Third Year Computer Engineering(B.Tech) student at College of Engineering, Pune (COEP).
 ## 📫 To reach out to me : dofeaa19.comp@coep.ac.in 
 <!--
 **anjalidofe/anjalidofe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
